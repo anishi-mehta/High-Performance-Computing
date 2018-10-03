@@ -1,0 +1,10 @@
+Link Number|1| |0.13339487| 
+Link Number|2| |0.16663475| 
+Link Number|3| |0.09996647| 
+Link Number|4| |0.06651540| 
+Link Number|5| |0.13352686| 
+Link Number|6| |0.06664057| 
+Link Number|7| |0.09986051| 
+Link Number|8| |0.09991688| 
+Link Number|9| |0.10017409| 
+Link Number|10| |0.03336969| 
